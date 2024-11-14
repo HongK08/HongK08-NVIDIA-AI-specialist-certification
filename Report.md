@@ -124,11 +124,23 @@ DarkLabel.zip
   그리고 분할된 프레임은 이미지 폴더에 PNG로 저장되었습니다. 
   ![image](https://github.com/user-attachments/assets/07b656b1-973f-4966-b53e-8e452cfce835)
 
+  DATA_SET_FILE_URL : https://drive.google.com/file/d/1wbaOHMAbdqJZqfA4KZnEwqn2tdFdJRzA/view?usp=sharing
+
+
+Now it's a picture that Google colab is conducting for learning
+이제 학습을 위해 구글 colab 에서 진행하는 사진이다
+![image](https://github.com/user-attachments/assets/435bca6b-ed2e-4bbb-8b27-e3b995796e78)
+
+  1. First, unmount Google Drive and CoLab and then proceed again
+  2. Change the directory to the path you want to use
+  3. And check the current route
+  #
+  1. 먼저 Google 드라이브 및 CoLab 마운트를 해제한 다음 다시 진행합니다
+  2. 사용할 경로로 디렉토리 변경
+  3. 그리고 현재 경로 확인
 
   
   
-
-
 
 
   
