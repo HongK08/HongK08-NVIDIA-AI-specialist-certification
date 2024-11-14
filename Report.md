@@ -188,15 +188,23 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
   5.  I learned how to learn models with 320 points [모델 학습을 실시합니다  epochs 값을 320을 넣고 학습 하였습니다]
 
   ![image](https://github.com/user-attachments/assets/1507a437-feeb-4902-98ef-ab56c78ede41)
+ 
+# Model Learning Verification
 
-  
 
+# F1_curve
+![F1_curve](https://github.com/user-attachments/assets/dd8c35b3-b377-4ae2-9ec5-b56d786047c5)
 
+#
 
-  
-     
+# PR_curve
+![PR_curve](https://github.com/user-attachments/assets/cf19fe26-ebf7-4352-aea4-4d8fbe98c4e9)
 
-   
+#
+
+# results
+![results](https://github.com/user-attachments/assets/f15451a9-00b4-4026-bf03-928c0501a8ae)
+
 
   
   
