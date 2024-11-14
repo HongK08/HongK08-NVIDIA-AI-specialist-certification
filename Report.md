@@ -232,6 +232,8 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
 
 # EXP
  https://drive.google.com/file/d/1aGTsXVQlo1TelaWHs35tcel9chyNY8jd/view?usp=sharing
+#
+
   
   
 
