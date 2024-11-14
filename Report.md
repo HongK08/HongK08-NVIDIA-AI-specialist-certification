@@ -185,6 +185,11 @@ Getting Started with Learning [학습 시작하기]
   3. It pre-processes the image files in the directory collectively and stores them in the form of a NumPy array. The preprocessing process includes image resizing and central cutting, and converts the image to the ImageNet standard. The finally generated NumPy array is stored in a form that can be used for deep learning model training.[디렉토리 내의 이미지 파일들을 일괄적으로 전처리하여 NumPy 배열 형태로 저장하는 기능을 합니다. 전처리 과정은 이미지 크기 조정, 중앙 자르기 등을 포함하며, ImageNet 표준에 맞춰 이미지를 변환합니다. 최종적으로 생성된 NumPy 배열은 딥러닝 모델 학습에 사용될 수 있는 형태로 저장됩니다.]
   4. It is intended to import and resize images to fit the transformation model to 512*512,  Create and store the NumPy array and store it as an npy-type dataset [변환 모델에 맞게 이미지를 가져오고 크기를 조정하기 위한 것입니다
 NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장합니다]
+  5.  I learned how to learn models with 320 points [모델 학습을 실시합니다  epochs 값을 320을 넣고 학습 하였습니다]
+
+  ![image](https://github.com/user-attachments/assets/1507a437-feeb-4902-98ef-ab56c78ede41)
+
+  
 
 
 
