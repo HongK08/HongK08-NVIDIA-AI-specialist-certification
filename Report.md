@@ -142,7 +142,37 @@ Next
   3. which was installed in the corresponding path through !gitclone https://github.com/ultralytics/yolov5.git [!git clone https://github.com/ultralytics/yolov5.git 을 통하여 해당 경로에 설치하였고]
   4. I changed the path and even set up the required file through %pipe install -qr requirements.txt [경로를 바꾸고 %pip install -qr requirements.txt 를 통하여 필수 파일까지 설정 완료하였다]
   5. Finally, installation was completed through Pillow==10.3 [마지막으로 Pillow==10.3 을 통하여 설치까지 완료하였음]
+#
 
+![image](https://github.com/user-attachments/assets/8223b1fb-03d0-4924-a311-bb7753537813)
+  1. Create a directory where the above organized Train data values will enter and receive the subsequent Val values [위에서 정리한 Train 데이터 값이 입력되고 후속 Val 값을 받을 디렉토리를 만듭니다]
+  2. And it's the process of creating data for verification [그리고 검증을 위한 데이터를 만들어 내는 과정입니다]
+
+#
+
+Put the training data in the created directory according to the path
+
+만들어진 디렉토리에 Train 데이터를 경로에 맞게 넣어줍니다
+![image](https://github.com/user-attachments/assets/c7a260ee-7540-44c5-b90b-d184cc3a34a3)
+
+
+And write down all class modifications and paths in the data.Yaml file
+
+그리고 data.Yaml 파일에 클래스 수정과 경로를 모두 적어줍니다
+![image](https://github.com/user-attachments/assets/907dd114-3868-4c27-9884-0b44b2fe7db6)
+
+
+And put the data.Yaml and yolov5n.pt files into the installation path of YOLOv5 on Google Drive
+
+그리고 미리 준비 해 둔 data.Yaml과 yolov5n.pt 파일을 구글 드라이브 상 YOLOv5 설치 경로로 넣어줍니다
+![image](https://github.com/user-attachments/assets/a1e573ab-3a90-4cbf-9d91-c37570716b48)
+
+# 
+
+
+
+
+  
      
 
    
