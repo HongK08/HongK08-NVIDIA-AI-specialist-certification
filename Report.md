@@ -89,21 +89,30 @@ Learning Data Extraction and Learning Annotation
 DarkLabel.zip
 
   I added classes to darklabel.yml 
-  darklabel.yml 에 classes를 추가하였다 ![dark using](https://github.com/user-attachments/assets/91efd64d-9f9e-4033-a199-8d43dbccd97a)
+  
+  darklabel.yml 에 classes를 추가하였다 
+  ![dark using](https://github.com/user-attachments/assets/91efd64d-9f9e-4033-a199-8d43dbccd97a)
   
   And to use classes, I changed the format1 value classes_set value 
-  그리고 classes를 사용하기 위하여 format1 값 classes_set 값을 변경해주었다 ![image](https://github.com/user-attachments/assets/d6f1aaa6-8140-449f-9ba0-d55849d94878)
+  
+  그리고 classes를 사용하기 위하여 format1 값 classes_set 값을 변경해주었다 
+  ![image](https://github.com/user-attachments/assets/d6f1aaa6-8140-449f-9ba0-d55849d94878)
 
   Video was divided into frame units using DarkLabel 2.4. 
-  DarkLabel 2.4 를 사용하여 비디오를 프레임 단위로 분할하였다. ![image](https://github.com/user-attachments/assets/f9b38ef5-24eb-478e-a001-a158a63d15bd)
+  
+  DarkLabel 2.4 를 사용하여 비디오를 프레임 단위로 분할하였다. 
+  ![image](https://github.com/user-attachments/assets/f9b38ef5-24eb-478e-a001-a158a63d15bd)
   
   And do Annotation.
+  
   그리고 Annotation 을 한다.
+  ![image](https://github.com/user-attachments/assets/438de579-e24a-4e21-994d-d2d323656dfb)
+
   
   After all the modifications, the video was imported from DarkLabel to Open Video.
   And all frames were processed by annotating each corresponding vehicle object.
-  Finally, store the value in the labels folder via GT Save As And the divided frames were saved in the images folder as PNG ![image](https://github.com/user-attachments/assets/438de579-e24a-4e21-994d-d2d323656dfb)
-
+  Finally, store the value in the labels folder via GT Save As And the divided frames were saved in the images folder as PNG 
+  
   모든 수정 후 동영상은 DarkLabel에서 Open Video로 가져옵니다.
   그리고 모든 프레임은 해당 차량 객체에 주석을 달아서 처리되었습니다.
   마지막으로 GT 세이브 As를 통해 라벨 폴더에 값을 저장합니다.
