@@ -169,6 +169,22 @@ And put the data.Yaml and yolov5n.pt files into the installation path of YOLOv5 
 
 # 
 
+![image](https://github.com/user-attachments/assets/152802cd-3dc1-4b07-8184-a0b40af0c2cf)
+
+All of them checked the status of the data set after debugging, and all values were confirmed as normal
+
+모두 디버깅 후 dataset의 상태를 확인, 모든 값이 정상으로 확인 되었다
+
+#
+Getting Started with Learning [학습 시작하기] 
+
+![image](https://github.com/user-attachments/assets/20f7b213-6a13-40a3-a5e6-628fa9069c5f)
+
+  1. I imported all the basic libraries [기본적인 라이브러리를 모두 import 해주었다]
+  2. Check the route [경로 확인]
+  3. It pre-processes the image files in the directory collectively and stores them in the form of a NumPy array. The preprocessing process includes image resizing and central cutting, and converts the image to the ImageNet standard. The finally generated NumPy array is stored in a form that can be used for deep learning model training.[디렉토리 내의 이미지 파일들을 일괄적으로 전처리하여 NumPy 배열 형태로 저장하는 기능을 합니다. 전처리 과정은 이미지 크기 조정, 중앙 자르기 등을 포함하며, ImageNet 표준에 맞춰 이미지를 변환합니다. 최종적으로 생성된 NumPy 배열은 딥러닝 모델 학습에 사용될 수 있는 형태로 저장됩니다.]
+  4. It is intended to import and resize images to fit the transformation model to 512*512,  Create and store the NumPy array and store it as an npy-type dataset [변환 모델에 맞게 이미지를 가져오고 크기를 조정하기 위한 것입니다
+NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장합니다]
 
 
 
