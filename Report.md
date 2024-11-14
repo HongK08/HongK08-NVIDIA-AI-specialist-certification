@@ -239,11 +239,13 @@ And first of all, I tried to run it as a video before marking in the original le
 
 ![image](https://github.com/user-attachments/assets/f2b1bdbc-f711-4050-ba79-60b2b57944c7)
 
+The link to the Google Drive below is the execution result video
+아래 구글 드라이브 링크가 실행 결과 동영상 입니다
 
 https://drive.google.com/file/d/1whYd_78mbLC7Dg0SXT6VijqUsCzR-wFs/view?usp=sharing
 
-  
-  
+Now, we will verify with files with different recording dates/recording times in the same location  
+이제 그러면 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일로 검증합니다  
 
 
   
