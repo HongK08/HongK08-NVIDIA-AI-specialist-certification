@@ -66,7 +66,6 @@ Literature Review
 
 
 
-
 Image Acquisition Method
 [영상 취득 방법]
 
