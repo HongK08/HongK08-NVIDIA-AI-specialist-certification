@@ -84,12 +84,18 @@ Learning Data Extraction and Learning Annotation
   First of all, the acquired video was processed to about 15 seconds (Using Radeon Graphics Card Control Panel)
 
   우선 취득한 영상의 분량을 약 15초 정도로 가공하였습니다 (라데온 그래픽카드 제어판 사용함)
+
   
 DarkLabel.zip
+
   Video was divided into frame units using DarkLabel 2.4. ![image](https://github.com/user-attachments/assets/f9b38ef5-24eb-478e-a001-a158a63d15bd)
+  
   And do Annotation.
+  
   I added classes to darklabel.yml ![dark using](https://github.com/user-attachments/assets/91efd64d-9f9e-4033-a199-8d43dbccd97a)
+  
   And to use classes, I changed the format1 value classes_set value ![image](https://github.com/user-attachments/assets/d6f1aaa6-8140-449f-9ba0-d55849d94878)
+
 
   DarkLabel 2.4 를 사용하여 비디오를 프레임 단위로 분할하였다.
   그리고 Annotation 을 한다.
