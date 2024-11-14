@@ -89,25 +89,27 @@ Learning Data Extraction and Learning Annotation
 DarkLabel.zip
 
   I added classes to darklabel.yml 
-  
   darklabel.yml 에 classes를 추가하였다 
   ![dark using](https://github.com/user-attachments/assets/91efd64d-9f9e-4033-a199-8d43dbccd97a)
   
   And to use classes, I changed the format1 value classes_set value 
-  
   그리고 classes를 사용하기 위하여 format1 값 classes_set 값을 변경해주었다 
   ![image](https://github.com/user-attachments/assets/d6f1aaa6-8140-449f-9ba0-d55849d94878)
 
-  Video was divided into frame units using DarkLabel 2.4. 
-  
+  Video was divided into frame units using DarkLabel 2.4.   
   DarkLabel 2.4 를 사용하여 비디오를 프레임 단위로 분할하였다. 
   ![image](https://github.com/user-attachments/assets/f9b38ef5-24eb-478e-a001-a158a63d15bd)
+
   
-  And do Annotation.
-  
-  그리고 Annotation 을 한다.
   ![image](https://github.com/user-attachments/assets/438de579-e24a-4e21-994d-d2d323656dfb)
 
+  And you can choose the class value you set above
+  그리고 위에서 설정한 클래스 값을 선택해 주면 된다
+  
+  
+  Annotation is now ready
+  이제 Annotation 준비가 완료되었다
+  ![image](https://github.com/user-attachments/assets/c36015b9-4a0e-4fb6-bfad-c4a7e877f712)
   
   After all the modifications, the video was imported from DarkLabel to Open Video.
   And all frames were processed by annotating each corresponding vehicle object.
@@ -127,12 +129,5 @@ DarkLabel.zip
   
   
 
-
-
-
-
-
-
-  ![image](https://github.com/user-attachments/assets/c36015b9-4a0e-4fb6-bfad-c4a7e877f712)
 
   
