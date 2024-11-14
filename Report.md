@@ -197,6 +197,16 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
 
 #
 
+# P_curve
+![P_curve](https://github.com/user-attachments/assets/481fdec5-e2c6-400d-bceb-6efbca58309e)
+
+#
+
+# R_curve
+![R_curve](https://github.com/user-attachments/assets/637b1bc0-3d9b-4e9b-a893-359938b0636e)
+
+#
+
 # PR_curve
 ![PR_curve](https://github.com/user-attachments/assets/cf19fe26-ebf7-4352-aea4-4d8fbe98c4e9)
 
