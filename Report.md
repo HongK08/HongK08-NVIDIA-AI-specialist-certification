@@ -234,6 +234,14 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
  https://drive.google.com/file/d/1aGTsXVQlo1TelaWHs35tcel9chyNY8jd/view?usp=sharing
 #
 
+And first of all, I tried to run it as a video before marking in the original learning video.
+그리고 우선 원본 학습 영상에서 마킹 전 동영상으로 실행 해 보았습니다.
+
+![image](https://github.com/user-attachments/assets/f2b1bdbc-f711-4050-ba79-60b2b57944c7)
+
+
+https://drive.google.com/file/d/1whYd_78mbLC7Dg0SXT6VijqUsCzR-wFs/view?usp=sharing
+
   
   
 
