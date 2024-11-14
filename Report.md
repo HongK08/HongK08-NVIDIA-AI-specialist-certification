@@ -235,6 +235,7 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
 #
 
 And first of all, I tried to run it as a video before marking in the original learning video.
+
 그리고 우선 원본 학습 영상에서 마킹 전 동영상으로 실행 해 보았습니다.
 
 ![image](https://github.com/user-attachments/assets/f2b1bdbc-f711-4050-ba79-60b2b57944c7)
@@ -242,16 +243,28 @@ And first of all, I tried to run it as a video before marking in the original le
 
 
 The link to the Google Drive below is the execution result video
+
 아래 구글 드라이브 링크가 실행 결과 동영상 입니다
 
 https://drive.google.com/file/d/1whYd_78mbLC7Dg0SXT6VijqUsCzR-wFs/view?usp=sharing
 
 Now, we will verify with files with different recording dates/recording times in the same location  
+
 이제 그러면 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일로 검증합니다  
 
+![image](https://github.com/user-attachments/assets/31046e23-0b53-41f4-ac44-ac95777b8deb)
+![image](https://github.com/user-attachments/assets/0d45ae23-6002-41de-b44d-d546176bb992)
 
-  
-  
+#
 
+![image](https://github.com/user-attachments/assets/5eae590d-ad9e-4c37-b66b-93d3afa00839)
+![image](https://github.com/user-attachments/assets/1de32f90-1713-4796-9b4a-8287c5b42e9b)
+This is a file video with a different recording date/recording time in the same place
 
-  
+이것이 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일 영상입니다
+
+https://drive.google.com/file/d/1-gKoRsToaxq90byem3YEPpKJlpH_I_fc/view?usp=sharing
+#
+# Full File Link
+https://drive.google.com/drive/folders/1AAnFYGBaV-JwL5QI9ZLN9zSXHOMe347X?usp=sharing
+
