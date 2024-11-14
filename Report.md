@@ -104,10 +104,13 @@ DarkLabel.zip
   ![image](https://github.com/user-attachments/assets/438de579-e24a-4e21-994d-d2d323656dfb)
 
   And you can choose the class value you set above
+
+  
   그리고 위에서 설정한 클래스 값을 선택해 주면 된다
   
   
   Annotation is now ready
+  
   이제 Annotation 준비가 완료되었다
   ![image](https://github.com/user-attachments/assets/c36015b9-4a0e-4fb6-bfad-c4a7e877f712)
   
@@ -119,6 +122,8 @@ DarkLabel.zip
   그리고 모든 프레임은 해당 차량 객체에 주석을 달아서 처리되었습니다.
   마지막으로 GT 세이브 As를 통해 라벨 폴더에 값을 저장합니다.
   그리고 분할된 프레임은 이미지 폴더에 PNG로 저장되었습니다. 
+  ![image](https://github.com/user-attachments/assets/07b656b1-973f-4966-b53e-8e452cfce835)
+
 
   
   
