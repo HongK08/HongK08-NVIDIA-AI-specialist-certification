@@ -63,4 +63,47 @@ Literature Review
   While working on this project, we are investigating other references, related cases, and papers needed to use YOLOv5 and exploring ideas and technical improvements for this project by reviewing the literature on YOLOv5's performance and future developments.
 
   이 프로젝트를 진행하며 YOLOv5를 사용하는데 있어서 필요한 다른 레퍼런스와 관련 사례 그리고 논문 등을 조사하고 있으며 YOLOv5의 성능과 앞으로의 발전에 대한 문헌을 검토를 통한 이 프로젝트의 아이디어와 기술적인 측면에서의 개선 방안을 탐구하고 있다.
+
+
+
+
+Image Acquisition Method
+[영상 취득 방법]
+
+  1. On YouTube, we recorded a live video of the Colorado Mountain College/Grand Avenue Bridge in Glenwood Springs Live Camera
+  2. Re-shooted a different day/time video on the same resource as number 1
+
+  1. 유튜브에서 글렌우드 스프링스의 콜로라도 마운틴 칼리지/그랜드 애비뉴 다리 라이브 카메라 영상을 녹화했습니다.
+  2. 1번과 동일한 리소스에 다른 날/시간의 영상을 한 번 재 촬영 했습니다.
+
+  Colorado Mountain College/Grand Avenue Bridge in Glenwood Springs Live Camera / URL : https://www.youtube.com/watch?v=B0YjuKbVZ5w
+
+Learning Data Extraction and Learning Annotation
+[학습 데이터 추출과 학습 어노테이션]
+
+  First of all, the acquired video was processed to about 15 seconds (Using Radeon Graphics Card Control Panel)
+
+  우선 취득한 영상의 분량을 약 15초 정도로 가공하였습니다 (라데온 그래픽카드 제어판 사용함)
+  
+DarkLabel.zip  (pictured attached as link)
+  Video was divided into frame units using DarkLabel 2.4. ![image](https://github.com/user-attachments/assets/5807a33b-3805-4db2-ba07-fc0eb8b25aec)
+
+  And do Annotation.
+  I added classes to darklabel.yml ![dark using](https://github.com/user-attachments/assets/91efd64d-9f9e-4033-a199-8d43dbccd97a)
+ 
+  
+
+
+
+![image](https://github.com/user-attachments/assets/d6f1aaa6-8140-449f-9ba0-d55849d94878)
+
+
+
+
+
+
+
+
+
+  
   
