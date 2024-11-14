@@ -191,6 +191,9 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
  
 # Model Learning Verification
 
+![confusion_matrix](https://github.com/user-attachments/assets/c5d44430-08cf-416a-9760-aca30d9a7a0e)
+![labels](https://github.com/user-attachments/assets/00686531-39b1-45a1-8547-5214dbd40521)
+
 
 # F1_curve
 ![F1_curve](https://github.com/user-attachments/assets/dd8c35b3-b377-4ae2-9ec5-b56d786047c5)
@@ -215,7 +218,17 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
 # results
 ![results](https://github.com/user-attachments/assets/f15451a9-00b4-4026-bf03-928c0501a8ae)
 
+#
 
+# train_batch
+![train_batch2](https://github.com/user-attachments/assets/78278814-6746-4cc3-922e-ba017b568c6b)
+
+#
+
+# var_batch
+![val_batch2_pred](https://github.com/user-attachments/assets/c1220a16-995c-4660-ad9f-0d8015a7b2b2)
+
+#
   
   
 
