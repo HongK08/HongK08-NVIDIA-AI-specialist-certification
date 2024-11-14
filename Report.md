@@ -229,6 +229,9 @@ NumPy 어레이를 생성 및 저장하고 Npy 유형 데이터 세트로 저장
 ![val_batch2_pred](https://github.com/user-attachments/assets/c1220a16-995c-4660-ad9f-0d8015a7b2b2)
 
 #
+
+# EXP
+ https://drive.google.com/file/d/1aGTsXVQlo1TelaWHs35tcel9chyNY8jd/view?usp=sharing
   
   
 
