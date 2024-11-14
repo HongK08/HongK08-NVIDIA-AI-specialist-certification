@@ -238,6 +238,8 @@ And first of all, I tried to run it as a video before marking in the original le
 그리고 우선 원본 학습 영상에서 마킹 전 동영상으로 실행 해 보았습니다.
 
 ![image](https://github.com/user-attachments/assets/f2b1bdbc-f711-4050-ba79-60b2b57944c7)
+![image](https://github.com/user-attachments/assets/f5eb97b4-7a83-448b-966e-11c863f4f254)
+
 
 The link to the Google Drive below is the execution result video
 아래 구글 드라이브 링크가 실행 결과 동영상 입니다
