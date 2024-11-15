@@ -252,8 +252,8 @@ Now, we will verify with files with different recording dates/recording times in
 
 이제 그러면 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일로 검증합니다  
 
-![image](https://github.com/user-attachments/assets/31046e23-0b53-41f4-ac44-ac95777b8deb)
-![image](https://github.com/user-attachments/assets/0d45ae23-6002-41de-b44d-d546176bb992)
+![image](https://github.com/user-attachments/assets/7924b1cc-5e67-480d-92b9-fb54710203ad)
+![image](https://github.com/user-attachments/assets/279f4d79-e327-4eda-862b-e0d194821cd7)
 
 #
 
