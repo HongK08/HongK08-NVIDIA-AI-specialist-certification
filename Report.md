@@ -257,13 +257,14 @@ Now, we will verify with files with different recording dates/recording times in
 
 #
 
-![image](https://github.com/user-attachments/assets/5eae590d-ad9e-4c37-b66b-93d3afa00839)
-![image](https://github.com/user-attachments/assets/1de32f90-1713-4796-9b4a-8287c5b42e9b)
+![image](https://github.com/user-attachments/assets/8b1807ad-86f0-4c9d-8938-22505e973b84)
+![image](https://github.com/user-attachments/assets/1f4a0549-e8b5-4bbc-a8d9-1240eab50890)
+
 This is a file video with a different recording date/recording time in the same place
 
 이것이 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일 영상입니다
 
-https://drive.google.com/file/d/1-gKoRsToaxq90byem3YEPpKJlpH_I_fc/view?usp=sharing
+https://drive.google.com/file/d/1-1jRMEJJ6cPOZfmQ4jVDBDJy3zYJawsO/view?usp=sharing
 #
 # Full File Link
 https://drive.google.com/drive/folders/1AAnFYGBaV-JwL5QI9ZLN9zSXHOMe347X?usp=sharing
