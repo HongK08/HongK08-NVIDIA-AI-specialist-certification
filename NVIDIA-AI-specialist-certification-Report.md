@@ -272,6 +272,10 @@ This is a file video with a different recording date/recording time in the same 
 이것이 같은 장소에서 녹화 일  / 녹화 시간이 다른 파일 영상입니다
 
 
+https://github.com/user-attachments/assets/84c89545-841a-4513-ad81-d2c43a641c14
+
+
+
 #
 # Full File Link
 https://drive.google.com/drive/folders/1FHtsEC5C13EagPtQPVoX3G-u_tUi4maO?usp=sharing
