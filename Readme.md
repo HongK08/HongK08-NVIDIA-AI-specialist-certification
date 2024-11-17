@@ -43,7 +43,6 @@ Current Limitations
 
   Current limitations may make it difficult to recognize objects due to weather conditions, i.e., uncontrollable variable conditions, and real-time processing requirements and performance improvements should be made after improving data collection conditions
 
-  현재의 한계로는 기상 조건 즉 통제 불가능한 변인 조건에 의한 대상의 인식이 어려워 질 수 있으며, 데이터 수집 조건의 개선 이후에 실시간 처리에 대한 요구 사항 그리고 성능 향상이 이루어져야 한다
   
 #
 
