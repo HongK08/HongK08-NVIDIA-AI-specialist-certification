@@ -233,13 +233,11 @@ Now, we will verify with files with different recording dates/recording times in
 ![image](https://github.com/user-attachments/assets/8b1807ad-86f0-4c9d-8938-22505e973b84)
 ![image](https://github.com/user-attachments/assets/1f4a0549-e8b5-4bbc-a8d9-1240eab50890)
 
-before
-
 https://github.com/user-attachments/assets/96529944-ed6c-44c5-ae9f-622550ade400
 
+before
+
 This is a file video with a different recording date/recording time in the same place
-
-
 
 
 https://github.com/user-attachments/assets/84c89545-841a-4513-ad81-d2c43a641c14
