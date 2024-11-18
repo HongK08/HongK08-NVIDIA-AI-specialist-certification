@@ -59,7 +59,7 @@ Image Acquisition Method
   1. On YouTube, we recorded a live video of the Colorado Mountain College/Grand Avenue Bridge in Glenwood Springs Live Camera 
   2. Re-shooted a different day/time video on the same resource as number 1 
 
-  Colorado Mountain College/Grand Avenue Bridge in Glenwood Springs Live Camera / URL : https://www.youtube.com/watch?v=B0YjuKbVZ5w
+  Colorado Mountain College/Grand Avenue Bridge in Glenwood Springs Live Camera /  URL : https://www.youtube.com/watch?v=B0YjuKbVZ5w
 
 Learning Data Extraction and Learning Annotation 
 
