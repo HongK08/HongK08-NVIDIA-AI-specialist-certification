@@ -234,7 +234,8 @@ Now, we will verify with files with different recording dates/recording times in
 ![image](https://github.com/user-attachments/assets/1f4a0549-e8b5-4bbc-a8d9-1240eab50890)
 
 before
-https://drive.google.com/file/d/1tAD-ZZ--VdEnK283c1aICkS0_iKZejb9/view?usp=sharing
+
+https://github.com/user-attachments/assets/96529944-ed6c-44c5-ae9f-622550ade400
 
 This is a file video with a different recording date/recording time in the same place
 
