@@ -243,7 +243,7 @@ This is a file video with a different recording date/recording time in the same 
 https://github.com/user-attachments/assets/84c89545-841a-4513-ad81-d2c43a641c14
 #
 
- # And this is a photo of it running on Jetson Nano.
+ # And this is a video of it working on Jetson Nano.
 
 
 https://github.com/user-attachments/assets/5fc3a9b3-13d4-4a09-aa27-c812c89e2597
